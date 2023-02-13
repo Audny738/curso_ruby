@@ -1,0 +1,2 @@
+{:name=>"editar", :state=>0}
+{:name=>"primera_tarea", :state=>0}
